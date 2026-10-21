@@ -1,0 +1,10 @@
+{
+  "id": "yaaw-demo",
+  "creative_status": "PENDING_APPROVAL",
+  "video": {"fps": 30, "width": 1920, "height": 1080, "frame_start": 1, "frame_end": 90},
+  "music": {"asset": null, "bpm_target": 120, "beat_phase_seconds": null, "status": "NOT_ANALYZED"},
+  "brand": {"palette": {"background": "#14294B", "accent": "#E87C23", "foreground": "#FFFFFF"}, "fonts": [], "logo": null},
+  "shots": [{"id": "intro", "start": 1, "end": 45}, {"id": "outro", "start": 46, "end": 90}],
+  "events": [{"id": "orb_impact", "frame": 16, "type": "impact", "sound": null}, {"id": "ring_reveal", "frame": 60, "type": "morph", "sound": null}],
+  "approval_gates": ["styleframe", "animatic", "proof", "final"]
+}
